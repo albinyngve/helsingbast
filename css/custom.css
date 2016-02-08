@@ -1,0 +1,88 @@
+.navbar-text > a {
+	color: inherit;
+	text-decoration: none;
+}
+
+p{
+font-family: 'Roboto', sans-serif;
+color: #7F3626;
+}
+
+hr{
+color: #f42b00;}
+
+h1, h2, h3, h4, h5, h6{
+font-family: 'Roboto', sans-serif;
+color: #f42b00; 
+}
+
+.navbar-default{
+background-color:#f42b00;
+border-color:#7F3626;
+border-bottom-width: medium;
+color:white;}
+
+.navbar-default .navbar-brand{
+color:white;}
+
+.navbar-default .navbar-brand hover,
+.navbar-default navbar-brand focus{
+color:red;
+background-color: #f42b00 ;
+}
+
+.navbar-default .navbar-nav > li > a{
+color:white;}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+    color:#FFFFFF;
+    background-color:#7F3626;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus{
+    color:;
+    background-color:transparent;
+}
+
+.jumbotron{
+margin-top: 40px;
+background-color: white;
+text-align:center;}
+
+h2{
+padding-bottom:10px;
+}
+
+.about{
+text-align:center;
+background-color:;
+padding-left:6%;
+padding-right:6%;
+}
+
+.about img{
+width:20%;}
+
+.col-md-4{
+padding-bottom:20px;}
+
+.navbar-absolute-bottom{
+text-align:center;
+background-color: #f42b00;}
+
+.navbar-absolute-bottom h2{
+color: white;}
+
+.navbar-absolute-bottom p{
+color: white;}
+
+.navbar-absolute-bottom a{
+color: white;}
+
+.navbar-absolute-bottom a:hover{
+color: black;}
+
+
